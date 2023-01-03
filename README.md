@@ -1,6 +1,6 @@
 # weather-app.py
 A weather app utilizing Python, Tkinter, Json, and Requests. 
-Used an OpenWeather API for real time weather information when a city name is inputted. 
+Used OpenWeather API for real time weather information when a city name is inputted. 
 Shows the current temperature, "feels-like" temperatures, and a desciption of the weather. 
 Photos of the app are inputted below: 
 
